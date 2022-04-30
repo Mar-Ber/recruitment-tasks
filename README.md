@@ -5,11 +5,11 @@ In the first task, a function was implemented that returns 'true' if two triangl
 Program outcome (visualization in the coordinate plane made using www.geogebra.org):
 
 <img src="https://github.com/Mar-Ber/recruitment-tasks/blob/main/img/ex_1_img1.PNG" width=40% height=40%>
-<img src="https://github.com/Mar-Ber/recruitment-tasks/blob/main/img/ex_1_img1_2.PNG" width=60% height=60%>
+<img src="https://github.com/Mar-Ber/recruitment-tasks/blob/main/img/ex_1_img1_2.PNG" width=70% height=70%>
 <img src="https://github.com/Mar-Ber/recruitment-tasks/blob/main/img/ex_1_img2.PNG" width=30% height=30%>
-<img src="https://github.com/Mar-Ber/recruitment-tasks/blob/main/img/ex_1_img2_2.PNG" width=60% height=60%>
+<img src="https://github.com/Mar-Ber/recruitment-tasks/blob/main/img/ex_1_img2_2.PNG" width=70% height=70%>
 <img src="https://github.com/Mar-Ber/recruitment-tasks/blob/main/img/ex_1_img3.PNG" width=30% height=30%>
-<img src="https://github.com/Mar-Ber/recruitment-tasks/blob/main/img/ex_1_img3_2.PNG" width=60% height=60%>
+<img src="https://github.com/Mar-Ber/recruitment-tasks/blob/main/img/ex_1_img3_2.PNG" width=70% height=70%>
 
 ### Exercise 2
 In the second task, a collision visualizer of a circle (statically located in the center of the screen) and a rotating rectangle was created.

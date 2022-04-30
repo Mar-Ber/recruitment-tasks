@@ -4,7 +4,7 @@ In the first task, a function was implemented that returns 'true' if two triangl
 
 Program outcome (visualization in the coordinate plane made using www.geogebra.org):
 
-![ex1img1](https://github.com/Mar-Ber/recruitment-tasks/blob/main/img/ex_1_img1.PNG)
+![ex1img1](https://github.com/Mar-Ber/recruitment-tasks/blob/main/img/ex_1_img1.PNG width=50% height=50%)
 
 ![ex1img1_2](https://github.com/Mar-Ber/recruitment-tasks/blob/main/img/ex_1_img1_2.PNG)
 

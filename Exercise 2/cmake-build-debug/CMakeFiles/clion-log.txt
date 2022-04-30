@@ -1,0 +1,5 @@
+"E:\Programowanie\CLion\CLion 2022.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=E:/Programowanie/CLion/CLion 2022.1/bin/ninja/win/ninja.exe" -G Ninja -S "E:\Programowanie\Projekty\Cpp\Novomatic tasks\Exercise 2" -B "E:\Programowanie\Projekty\Cpp\Novomatic tasks\Exercise 2\cmake-build-debug"
+-- Found SFML 2.5.1 in E:/Programowanie/Projekty/Cpp/Novomatic tasks/SFML/lib/cmake/SFML
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/Programowanie/Projekty/Cpp/Novomatic tasks/Exercise 2/cmake-build-debug

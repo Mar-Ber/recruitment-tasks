@@ -1,3 +1,0 @@
-E:/Programowanie/Projekty/Cpp/Novomatic tasks/Exercise 1/cmake-build-debug/CMakeFiles/Exercise_1.dir
-E:/Programowanie/Projekty/Cpp/Novomatic tasks/Exercise 1/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Programowanie/Projekty/Cpp/Novomatic tasks/Exercise 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

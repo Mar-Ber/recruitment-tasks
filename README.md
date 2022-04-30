@@ -19,9 +19,9 @@ The control is done using the 'q' and 'e' keys. The collision is signaled by the
 
 Program outcome:
 
-<img src="https://github.com/Mar-Ber/recruitment-tasks/blob/main/img/ex_2_img1.PNG" width=40% height=40%>
+<img src="https://github.com/Mar-Ber/recruitment-tasks/blob/main/img/ex_2_img1.PNG" width=20% height=20%>
 
-<img src="https://github.com/Mar-Ber/recruitment-tasks/blob/main/img/ex_2_img2.PNG" width=40% height=40%>
+<img src="https://github.com/Mar-Ber/recruitment-tasks/blob/main/img/ex_2_img2.PNG" width=20% height=20%>
 
 ### Exercise 3
 In the third task, trimming of all whitespaces from the given string to the left and right was implemented.

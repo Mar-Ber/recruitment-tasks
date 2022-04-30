@@ -26,3 +26,6 @@ Program outcome:
 ### Exercise 3
 In the third task, trimming of all whitespaces from the given string to the left and right was implemented.
 
+Program outcome:
+
+<img src="https://github.com/Mar-Ber/recruitment-tasks/blob/main/img/ex_3_img1.PNG" width=70% height=70%>

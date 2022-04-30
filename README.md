@@ -10,7 +10,8 @@ The SFML library in version 2.5.1 was used to perform the task.
 The control is done using the 'q' and 'e' keys. The collision is signaled by the object's color changing to green.
 
 Program outcome:
-
+![ex2img1](https://github.com/Mar-Ber/recruitment-tasks/blob/main/img/ex_2_img1.PNG)
+![ex2img2](https://github.com/Mar-Ber/recruitment-tasks/blob/main/img/ex_2_img2.PNG)
 
 ### Exercise 3
 In the third task, trimming of all whitespaces from the given string to the left and right was implemented.

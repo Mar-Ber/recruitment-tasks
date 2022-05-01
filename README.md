@@ -26,7 +26,7 @@ Program outcome:
 ### Exercise 3
 In the third task, trimming of all whitespaces from the given string to the left and right was implemented.
 
-In order to maintain generality, function overloads were used, allowing for the handling of strings such as char [] and string. Due to the fact that the handling of both types is different, no function templates are used here.
+In order to maintain generality, function overload was used, allowing for the handling of strings such as char [] and string. Due to the fact that the handling of both types is different, no function templates are used here.
 
 Program outcome:
 
